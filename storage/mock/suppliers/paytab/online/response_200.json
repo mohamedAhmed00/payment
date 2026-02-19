@@ -1,0 +1,24 @@
+{
+    "tran_ref": "TST2224301327353",
+    "tran_type": "Sale",
+    "cart_id": "1234567",
+    "cart_description": "any description",
+    "cart_currency": "EGP",
+    "cart_amount": "1000.00",
+    "callback": "https:\/\/einv.travware.info\/api\/payment\/callback?supplier=paytab&method=online",
+    "return": "https:\/\/einv.travware.info\/api\/payment\/callback?supplier=paytab&method=online",
+    "redirect_url": "https:\/\/secure-egypt.paytabs.com\/payment\/page\/59FCB08B82E41B8C1DBE71C42EF92224ED1C68A88D3E857E6587B62D",
+    "customer_details": {
+        "name": "name",
+        "email": "mail@email.com",
+        "phone": "12345678987",
+        "street1": "street 1",
+        "city": "cairo",
+        "state": "C",
+        "country": "EG"
+    },
+    "serviceId": 2,
+    "profileId": 101990,
+    "merchantId": 48075,
+    "trace": "PMNT0404.630F7592.0000519C"
+}

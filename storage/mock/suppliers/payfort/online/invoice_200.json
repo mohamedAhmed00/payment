@@ -1,0 +1,19 @@
+{
+    "notification_type" : "EMAIL",
+    "amount" : "950",
+    "response_code" : "48000",
+    "request_expiry_date" : "2022-11-08T14:48:49+00:00",
+    "payment_link_id" : "169996200007383491",
+    "signature" : "b8a3c7c443ec000b250427c98f35a6325b5ac1740a00aa0a4cb63e955096ab6a",
+    "merchant_identifier" : "8cdb274a",
+    "access_code" : "5PAbmqCjTaXDYm1M7YZt",
+    "language" : "en",
+    "payment_link" : "https://sbcheckout.payfort.com/8453f75d0d8bae84",
+    "service_command" : "PAYMENT_LINK",
+    "response_message" : "Success",
+    "merchant_reference" : "460fc0483fea2f3d48e2c9a29dd4058c",
+    "customer_email" : "kariman.shawki@travware.com",
+    "currency" : "EGP",
+    "link_command" : "PURCHASE",
+    "status" : "48"
+}

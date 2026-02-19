@@ -1,0 +1,15 @@
+{
+    "command": "REFUND",
+    "access_code": "zx0IPmPy5jp1vAz8Kpg7",
+    "merchant_identifier": "CycHZxVj",
+    "merchant_reference": "XYZ9239-yu898",
+    "amount": "10000",
+    "currency": "AED",
+    "language": "en",
+    "signature": "7cad05f0212ed933c9a5d5dffa31661acf2c827a",
+    "fort_id": "149295435400084008",
+    "order_description": "iPhone 6-S",
+    "response_message": "Success",
+    "response_code": "06000",
+    "status":"04"
+}

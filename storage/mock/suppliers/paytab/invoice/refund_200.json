@@ -1,0 +1,37 @@
+{
+    "tran_ref": "TST2225801336703",
+    "previous_tran_ref": "TST2225801336698",
+    "tran_type": "Refund",
+    "cart_id": "cart_66666",
+    "cart_description": "Refund reason",
+    "cart_currency": "EGP",
+    "cart_amount": "3.00",
+    "customer_details": {
+        "name": "first last",
+        "email": "email@domain.com",
+        "phone": "01128142458",
+        "street1": "address street",
+        "city": "dubai",
+        "state": "DU",
+        "country": "AE",
+        "ip": "197.36.40.156"
+    },
+    "payment_result": {
+        "response_status": "A",
+        "response_code": "G34346",
+        "response_message": "Authorised",
+        "transaction_time": "1970-01-01T00:00:00Z"
+    },
+    "payment_info": {
+        "payment_method": "Visa",
+        "card_type": "Credit",
+        "card_scheme": "Visa",
+        "payment_description": "4000 00## #### 0002",
+        "expiryMonth": 11,
+        "expiryYear": 2022
+    },
+    "serviceId": 1,
+    "profileId": 101990,
+    "merchantId": 48075,
+    "trace": "PMNT0403.6322F12A.0000CC66"
+}
